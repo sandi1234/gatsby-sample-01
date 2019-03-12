@@ -14,7 +14,7 @@ export default ({ data }) => (
     <div>
       <Helmet>
         <meta charset="UTF-8" />
-        <title>My Blog Posts Overview</title>
+        <title>My Blog Posts Overview (on Netlify)</title>
         <meta name="description" content="Free Web tutorials" />
         <meta name="keywords" content="React, Javascript" />
         <meta name="author" content="King Kong" />
